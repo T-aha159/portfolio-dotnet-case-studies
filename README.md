@@ -24,7 +24,7 @@ A contractor payroll and billing management system with role-based access and re
 - jQuery / Bootstrap
 - IIS Deployment
 
-### Screenshots
+### Screenshots - Contractor Payroll
 
 ![Dashboard](screenshots/contractor-payroll/Contractor-Payroll-1.jpeg)
 ![Cutting Module](screenshots/contractor-payroll/Contractor-Payroll-2.jpeg)
@@ -60,4 +60,17 @@ A complete company asset and machine management system with department/unit/floo
 - QR code generation + scanning workflow
 - IIS Deployment
 
+###  Screenshots – Machine Maintenance
+
+![Machine 1](screenshots/machine-maintenance/Machine-Maintanace-1.jpeg)
+![Machine 2](screenshots/machine-maintenance/Machine-Maintanace-2.jpeg)
+![Machine 3](screenshots/machine-maintenance/Machine-Maintanace-3.jpeg)
+![Machine 4](screenshots/machine-maintenance/Machine-Maintanace-4.jpeg)
+![Machine 5](screenshots/machine-maintenance/Machine-Maintanace-5.jpeg)
+![Machine 6](screenshots/machine-maintenance/Machine-Maintanace-6.jpeg)
+![Machine 7](screenshots/machine-maintenance/Machine-Maintanace-7.jpeg)
+![Machine 8](screenshots/machine-maintenance/Machine-Maintanace-8.jpeg)
+![Machine 9](screenshots/machine-maintenance/Machine-Maintanace-9.jpeg)
+![Machine 10](screenshots/machine-maintenance/Machine-Maintanace-10.jpeg)
+![Machine 11](screenshots/machine-maintenance/Machine-Maintanace-11.jpeg)
 
