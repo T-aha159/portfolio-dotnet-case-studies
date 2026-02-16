@@ -24,7 +24,19 @@ A contractor payroll and billing management system with role-based access and re
 - jQuery / Bootstrap
 - IIS Deployment
 
+### Screenshots
 
+![Dashboard](screenshots/contractor-payroll/Contractor-Payroll-1.jpeg)
+![Cutting Module](screenshots/contractor-payroll/Contractor-Payroll-2.jpeg)
+![Billing Workflow](screenshots/contractor-payroll/Contractor-Payroll-3.jpeg)
+![Reports](screenshots/contractor-payroll/Contractor-Payroll-4.jpeg)
+![Summary](screenshots/contractor-payroll/Contractor-Payroll-5.jpeg)
+![Validation](screenshots/contractor-payroll/Contractor-Payroll-6.jpeg)
+![Admin Panel](screenshots/contractor-payroll/Contractor-Payroll-7.jpeg)
+![Contractor View](screenshots/contractor-payroll/Contractor-Payroll-8.jpeg)
+![Lock Mechanism](screenshots/contractor-payroll/Contractor-Payroll-9.jpeg)
+![Export Reports](screenshots/contractor-payroll/Contractor-Payroll-10.jpeg)
+![Final Output](screenshots/contractor-payroll/Contractor-Payroll-11.jpeg)
 
 ---
 
